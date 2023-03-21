@@ -213,6 +213,6 @@ I would like to thank the entire staff of Microverse for inspiring this project.
 
 ## 📝 License <a name="license"></a>
 
-This project is MIT licensed. Read the <a href="https://github.com/ometman/Hello-world/blob/hello-world/LICENSE.md">LICENSE</a>.
+This project is MIT licensed. Read the <a href="https://github.com/ometman/Hello-World/blob/89574195e2516c2387820aeb35e5799609db7f2a/LICENSE.md">LICENSE</a>.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
